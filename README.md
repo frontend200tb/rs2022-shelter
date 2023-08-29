@@ -3,7 +3,7 @@
 
 Иван Каширин frontend200tb
 
-https://frontend200tb.github.io/shelter/pages/main/index.html
+https://frontend200tb.github.io/rs2022-shelter/pages/main/index.html
 
 Макет Shelter
 
